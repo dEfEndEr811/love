@@ -14,7 +14,7 @@ body {
    background: #eee;
   display: grid;
   place-items: center;
-  background-image: url(images/background.jpg);
+  background-image: url(background.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
